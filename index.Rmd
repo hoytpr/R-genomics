@@ -1,5 +1,5 @@
 ---
-title: "Data Carpentry: R for Genomics"
+title: "Data Analysis and Visualization in R *alpha*"
 author: Data Carpentry contributors
 ---
 
@@ -15,7 +15,7 @@ author: Data Carpentry contributors
 Data Carpentry's aim is to teach researchers basic concepts, skills,
 and tools for working with data so that they can get more done in less
 time, and with less pain. The lessons below were designed for those interested
-in working with ecology data in R.
+in working with genomics data in R.
 
 This is an introduction to R designed for participants with no programming
 experience. These lessons can be taught in a day (~ 6 hours). They start with
@@ -47,12 +47,10 @@ the data and install everything *before* working through this lesson.
 
 ### Data
 
+Data for the lesson is available [here](https://raw.githubusercontent.com/datacarpentry/R-genomics/gh-pages/data/Ecoli_metadata.csv).
 
-
-Data files for the lesson are available and can be downloaded manually here: 
-
-However, we will download them directly from R during the lessons when we need
-them.
+We will download this file directly from R during the lessons when we need
+it.
 
 ### Setup instructions
 
@@ -149,4 +147,4 @@ then installing **`tidyverse`** and **`RSQLite`**.
 
 ## Contributors
 
-The list of contributors to this lesson is available [here](http://datacarpentry.org/R-ecology-lesson/CITATION),
+The list of contributors to this lesson is available [here](http://datacarpentry.org/R-ecology-lesson/CITATION).
